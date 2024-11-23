@@ -21,7 +21,7 @@ const Nav =() => {
               <Image src={'phone.svg'} width={42} height={42} alt='' />
             <div className='text-white'>  
             <div className='text-[12px] font-roboto uppercase font-medium leading-none '>24/7 Dessert delivery service</div>
-            <div className='text-[26px] flex items-center justify-center font-roboto font-extrabold leading-none tracking-wide'>920 234 5768</div>
+            <div className='text-[26px] flex items-center justify-center font-roboto font-extrabold leading-none tracking-wide'>123 456 7890</div>
           </div>
       </div>
         {/* cart */}
